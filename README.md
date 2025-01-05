@@ -65,7 +65,7 @@ Electronics_Lab/
 └── README.md                   # Project documentation
 ```
 
-## Manuals
+## Manuals and Reports
 ### 20230811-co-526-b_manual.pdf
 This manual provides comprehensive details about the CO-526-B electronic component, including its specifications, operating conditions, and recommended usage in circuit designs. It is a vital resource for understanding this component.
 
