@@ -58,10 +58,10 @@ Electronics_Lab/
 │       ├── F0000CH2.CSV        # CSV file for channel 2 data
 │       ├── F0000TEK.BMP        # BMP image of the oscilloscope output
 │       └── F0000TEK.SET        # Settings file for the oscilloscope
-├── 20230811-co-526-b_manual.pdf # Manual for CO-526-B component
-├── Electronics1.pdf            # Foundational guide on basic electronics
-├── Electronics2.pdf            # Intermediate electronics concepts
-├── Electronics3.pdf            # Advanced electronics topics
+├── Lab_Manual.pdf              # Lab Manual
+├── Electronics1.pdf            # First Lab Report, Basic electronics concepts
+├── Electronics2.pdf            # Second Lab Report, Intermediate electronics concepts
+├── Electronics3.pdf            # Third Lab Report, Advanced electronics concepts
 └── README.md                   # Project documentation
 ```
 
