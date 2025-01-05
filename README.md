@@ -1,6 +1,6 @@
 # Electronics_Lab
 
-Electronics_Lab is a repository dedicated to resources, experiments, and materials for electronics enthusiasts and learners. It includes lab assignments, technical manuals, experiment data, and various resources for electronics projects.
+Electronics_Lab is a repository dedicated to resources, experiments, and materials for electronics enthusiasts and learners. This repository was originally developed as part of my coursework, providing a structured approach to exploring key concepts in electronics. It includes lab assignments, technical manuals, experiment data, and various resources for electronics projects.
 
 ## Features
 - Comprehensive lab experiments and results.
@@ -97,9 +97,5 @@ The repository includes various file formats, each serving a specific purpose:
 
 
 ## Acknowledgments
-- Contributors and community members for their input and support.
-- Open-source tools and libraries used in the repository.
+- Mr. Uwe Pagel - Lab Instructor, Constructor University
 
----
-
-For questions or feedback, please open an issue in the repository or contact us directly.
